@@ -1,6 +1,6 @@
 const CONFIG = {
     titleWeb: "Love confess",
-    introTitle: 'Đia Mai Eng Dồ ^^',
+    introTitle: 'Con Tôm Hùm Đột Biến của anh ^^',
     introDesc: "Meeting you was one of the best time in my life ^^ I mean you showed me something I've never felt before🥺 You truly made me fall in love with you without even trying",
     btnIntro: '^^HiHi^^',
     title: 'Đố biết ai đang nhớ em vl nào? 🥰',
